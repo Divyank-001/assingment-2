@@ -1,2 +1,3 @@
 # assingment-2
-This repository is for my college assingment
+Iam divyank singh iam persuing my b-tech in mahindra university 
+currently in 3rd year
